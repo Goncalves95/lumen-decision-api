@@ -1,0 +1,12 @@
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\model\response\ApiResponse.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\model\response\ScoreComponent.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\config\RateLimitConfig.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\model\request\FinancialProfileRequest.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\LumenDecisionApiApplication.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\controller\DecisionScoreController.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\service\DecisionScoreService.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\config\OpenApiConfig.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\exception\GlobalExceptionHandler.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\exception\ValidationException.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\model\response\DecisionScoreResponse.java
+C:\Users\Fernando\Repos\lumen-decision-api\src\main\java\com\lumendecision\exception\RateLimitExceededException.java
